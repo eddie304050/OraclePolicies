@@ -1,0 +1,58 @@
+# Terms of Service for [Bot Name]
+
+**Last Updated:** [Date, e.g., October 2026]
+
+By inviting [Bot Name] ("the Bot") to your Discord server or interacting with its features, you agree to comply with and be bound by these Terms of Service. If you do not agree, please do not use the Bot.
+
+---
+
+### 1. Relationship with Discord
+
+[Bot Name] operates on the Discord platform. By using the Bot, you confirm that you also comply with:
+* [Discord Terms of Service](https://discord.com/terms)
+* [Discord Community Guidelines](https://discord.com/guidelines)
+* [Discord Developer Terms of Service](https://support-dev.discord.com/hc/en-us/articles/8562894815383)
+
+---
+
+### 2. Acceptable Use
+
+You agree not to use [Bot Name] to:
+* Violate any applicable local, national, or international laws.
+* Spam commands, exploit bugs, or execute Distributed Denial of Service (DDoS) attempts against the Bot's infrastructure.
+* Circumvent access controls, rate limits, or administrative restrictions.
+* Harass, abuse, or collect unauthorized personal data from server members.
+
+We reserve the right to block specific users or entire servers from accessing [Bot Name] without prior notice for violating these terms.
+
+---
+
+### 3. Availability and Warranties
+
+* **"As-Is" Basis:** [Bot Name] is provided "as is" and "as available", without warranties of any kind, whether express or implied.
+* **Uptime & Maintenance:** While we aim for high availability, we do not guarantee uninterrupted service. The Bot may go offline for maintenance, updates, or technical failures.
+* **Feature Changes:** We reserve the right to add, modify, or deprecate features at any time without liability.
+
+---
+
+### 4. Limitation of Liability
+
+To the maximum extent permitted by law, the developers and operators of [Bot Name] shall not be held liable for:
+* Any loss of data, server settings, or configuration files.
+* Direct, indirect, incidental, or consequential damages resulting from the use or inability to use the Bot.
+* Actions taken by server administrators using the Bot’s moderation or management tools.
+
+---
+
+### 5. Termination
+
+* Server owners may terminate this agreement at any time by kicking or banning [Bot Name] from their server.
+* We reserve the right to terminate or restrict access to any user or server at our sole discretion.
+
+---
+
+### 6. Contact Information
+
+For questions regarding these Terms or support inquiries:
+* **Email:** [Contact Email]
+* **Support Server:** [Discord Support Server Link]

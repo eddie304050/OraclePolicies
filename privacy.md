@@ -1,0 +1,59 @@
+# Privacy Policy for [Bot Name]
+
+**Last Updated:** [Date, e.g., October 2026]
+
+This Privacy Policy explains how [Bot Name] ("we", "us", or "our") collects, uses, and safeguards information when you add or interact with our Discord bot.
+
+---
+
+### 1. Information We Collect
+
+To function correctly, [Bot Name] processes certain data provided through the Discord API:
+
+* **User Identifiers:** Discord User IDs, usernames, and discriminators/handles.
+* **Server Identifiers:** Discord Guild (server) IDs, channel IDs, and role IDs.
+* **Command Inputs & Messages:** Content of messages sent directly as commands to the bot or parameters passed via slash commands (`/`).
+* **Operational Logs:** Standard log entries including timestamps, error reports, and command execution metrics.
+
+> **Note:** [Bot Name] does not passively log or store private user chats outside of explicit command interactions intended for the bot.
+
+---
+
+### 2. How We Use Collected Data
+
+We use the collected information strictly for:
+* Executing core bot commands, features, and administrative configurations.
+* Maintaining per-server configurations (e.g., custom prefixes, logging channels, or moderation settings).
+* Troubleshooting bugs, preventing abuse, and improving performance.
+
+---
+
+### 3. Data Storage and Retention
+
+* **Storage Location:** Data is stored in secured databases accessible solely by authorized developers of [Bot Name].
+* **Retention Period:** Configuration data is retained as long as the bot remains in your server. Temporary logs and operational caches are rotated or deleted periodically (typically within 30 to 90 days).
+* **Data Deletion:** If the bot is removed from a server, server-specific configuration records can be scheduled for deletion. Users may request manual deletion of their associated records at any time.
+
+---
+
+### 4. Third-Party Sharing
+
+We do not sell, rent, or trade your personal data. Data is only shared with third parties under the following circumstances:
+* **Hosting & Infrastructure Providers:** Cloud infrastructure providers that host our bot and databases (subject to strict data protection standards).
+* **Legal Requirements:** If required by law, subpoena, or valid legal process.
+
+---
+
+### 5. Your Rights and Data Requests
+
+Under applicable privacy regulations, you have the right to:
+* Request a copy of the data associated with your Discord User ID.
+* Request immediate deletion of your stored data.
+
+To submit a data access or deletion request, contact us via email at **[Contact Email]** or join our support server at **[Discord Support Server Link]**.
+
+---
+
+### 6. Updates to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of [Bot Name] after updates indicates acceptance of the revised policy.
